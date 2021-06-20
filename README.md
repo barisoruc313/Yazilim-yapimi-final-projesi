@@ -1,2 +1,3 @@
 # Yazilim-yapimi-final-projesi
-manisa celal bayar üniversitesi yazılım yapımı dersi planlama oyunu final projesi
+Manisa celal bayar üniversitesi yazılım yapımı dersi planlama oyunu final projesi
+Ruhi Barış Oruç 2020802014 
